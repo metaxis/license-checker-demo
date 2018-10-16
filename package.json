@@ -15,6 +15,7 @@
     "pg": "^7.5.0",
     "query-string": "^6.2.0",
     "goat.js": "^0.0.0",
-    "request": "latest"
+    "request": "latest",
+    "inherits": "^1.0.0"
   }
 }
